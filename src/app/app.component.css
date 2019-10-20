@@ -1,0 +1,49 @@
+header{
+   display:flex;
+   justify-content: space-between;
+}
+span{
+    color: black;
+    font-size: 1.5em;
+    padding: 0.5em;
+}
+header a{
+    color: black;
+    font-size: 1.1em;
+    font-weight:500;
+    text-decoration:none;
+}
+nav ul {
+    display:flex;
+    justify-content: space-between;
+}
+nav ul li{
+    list-style: none;
+    padding-right: 1.4em;
+}
+
+
+main{
+   height: 100vh;
+}
+
+
+footer{
+   display:flex;
+   justify-content: space-between;
+   padding-top:10px;
+}
+
+
+footer a{
+    color: black;
+    font-size: 1.1em;
+    font-weight:500;
+    text-decoration:none;
+}
+
+footer span{
+    color: black;
+    font-size: 1.5em;
+    padding: 0.5em;
+}
